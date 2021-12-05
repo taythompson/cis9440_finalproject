@@ -59,12 +59,12 @@ List of Data Warehouse KPI's:
 
 This project's Dimensional Model consists of (x) Facts and (y) Dimensions
 
-Use correct file path here to show picture of dimensional model...
+
 <img width="938" alt="Screen Shot 2021-12-05 at 9 27 10 AM" src="https://user-images.githubusercontent.com/48069159/144750999-6c13dba4-3164-4bbf-98fc-8dfd9ecc4ad0.png">
 
 This project's Kimball Bus Matrix:
 
-Use correct file path here to show picture of dimensional model...
+
 <img width="621" alt="Screen Shot 2021-12-05 at 9 26 55 AM" src="https://user-images.githubusercontent.com/48069159/144751016-73f51b46-f7ce-4b0f-ad5b-29147c10abe0.png">
 
 
@@ -80,12 +80,10 @@ List of Visualizations for each KPI:
 
 BI Application Wireframe design:
 
-Use correct file path here to show picture of Wireframe design...
+
 ![image](https://user-images.githubusercontent.com/48069159/144750716-a850e708-f976-423e-ab84-1fb0f160ecf5.png)
 
 Picture of final Dashboard:
-
-Use correct file path here to show picture of Dashboard...
 
 
 <img width="501" alt="Screen Shot 2021-12-05 at 9 30 53 AM" src="https://user-images.githubusercontent.com/48069159/144750853-423a326b-18ef-443d-9d14-0f3b1145a532.png">
