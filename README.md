@@ -83,10 +83,10 @@ BI Application Wireframe design:
 
 ![image](https://user-images.githubusercontent.com/48069159/144750716-a850e708-f976-423e-ab84-1fb0f160ecf5.png)
 
-Picture of final Dashboard:
+Picture of Final Dashboard:
 
 
-<img width="501" alt="Screen Shot 2021-12-05 at 9 30 53 AM" src="https://user-images.githubusercontent.com/48069159/144750853-423a326b-18ef-443d-9d14-0f3b1145a532.png">
+<img width="545" alt="Screen Shot 2021-12-06 at 6 34 34 PM" src="https://user-images.githubusercontent.com/48069159/144939591-79438ce0-3aa8-4ae2-80a5-e20ed6fd1c4d.png">
 
 ### Deployment
 
